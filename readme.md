@@ -1,2 +1,1 @@
-## I am not an empty file.
-a modify step
+\nI should change the content of the file
